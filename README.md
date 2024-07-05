@@ -97,7 +97,7 @@
 <img src='https://blog.karenying.com/static/3791821603a2ba731cabf17cc891864b/445d5/github-commit-bot.jpg' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Animace&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Animace&icon=0&color=0)
 
   ## 💰 Worth Some Hours!!
 <a href="https://buymeacoffee.com/...A" style="margin-right: 25px;">
