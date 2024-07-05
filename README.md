@@ -93,7 +93,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Git Meme
+### 😏 Random Git Meme
 <img src='https://blog.karenying.com/static/3791821603a2ba731cabf17cc891864b/445d5/github-commit-bot.jpg' style="height: 400px;"/>
 
 ---
