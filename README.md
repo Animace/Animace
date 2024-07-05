@@ -1,5 +1,5 @@
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Ugh. . .</h1>
+<h1 align="center">Duhhh. . .</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animace&label=Profile%20views&color=0e75b6&style=flat" alt="animace" /> </p>
 
