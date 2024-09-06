@@ -81,11 +81,13 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📊 GitHub Stats:
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Animace&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Animace)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Animace&theme=nightowl)
+
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Animace&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
