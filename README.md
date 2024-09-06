@@ -82,15 +82,22 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Animace&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+# 📊 GitHub Stats
 
+<!-- GitHub Stats -->
+<a href="https://github.com/Animace">
+    <img src="https://github-readme-stats.vercel.app/api?username=Animace&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</a>
+
+<!-- GitHub Streak -->
 <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Animace&theme=nightowl" alt="GitHub Streak" />
 </a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Animace&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<!-- Top Languages -->
+<a href="https://github.com/Animace">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animace&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Animace&theme=radical&no-frame=true&no-bg=false&margin-w=4)
