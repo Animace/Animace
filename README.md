@@ -82,8 +82,9 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Animace&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Animace&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Animace&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Animace&theme=dark&hide_border=false)
+
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Animace&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
