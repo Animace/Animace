@@ -89,7 +89,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Animace&theme=nightowl)](https://git.io/streak-stats)<br/>
 
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Animace&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
