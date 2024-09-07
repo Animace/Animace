@@ -86,11 +86,11 @@
 
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?user=Animace&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Animace&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Animace&theme=nightowl)](https://git.io/streak-stats)<br/>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?user=Animace
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Animace
 &langs_count=5&theme=tokyonight)]()
 
 
