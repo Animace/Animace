@@ -85,8 +85,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Animace&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Animace&theme=nightowl)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Animace&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Animace&theme=radical&no-frame=true&no-bg=false&margin-w=4)
