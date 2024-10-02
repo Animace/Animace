@@ -90,6 +90,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Animace&theme=nightowl)](https://git.io/streak-stats)<br/>
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Animace&langs_count=5&theme=tokyonight)]()
+
 
 
 
